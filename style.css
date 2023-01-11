@@ -1,0 +1,56 @@
+*{
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: skyblue;
+    width:100%;
+    height: 80px;
+    position: relative;
+}
+.nav{
+    background-color: orangered;
+    width: 98%;
+    height: 65px;
+    position: absolute;
+    top: 8px;
+    left: 15px;
+
+}
+h1{
+    position:absolute;
+    margin-top: 1%;
+    left: 15%;
+    
+}
+#logo{
+    background-color: greenyellow;
+    width: 5%;
+    height: 70%;
+    position: absolute;
+    top: 13px;
+    left: 25px;
+    margin-bottom: 20px;
+    
+    
+}
+img{
+    position: relative;
+    width: 99%;
+    height: 99%;
+}
+
+#nav_links{
+    background-color: rgb(47, 155, 65);
+    width: 45%;
+    height: 60%;
+    position: absolute;
+    top: 15px;
+    margin-left: 50%;
+}
+h4{
+    position: absolute;
+    left: 15%;
+    margin-top: 3%;
+}
